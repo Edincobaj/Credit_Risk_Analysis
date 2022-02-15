@@ -42,7 +42,7 @@ In this challenge we've been tasked with using machine learning to solve a real-
 ![Adaboost_classifier](https://user-images.githubusercontent.com/41974323/154158922-11180819-4dcb-49fd-862d-0daa17d12cd1.PNG)
 
 ## Summary
-
+According to our results our analysis shows that the Adaboost classifier model shows the best scores across balanced accuracy, precision and recall when compared to other models. In my opinion the recommended model to use is the Adaboost classifier model because the model shows the best ability to limit the number of high-risk loans going through without getting flagged. 
 
 
 
